@@ -1,0 +1,7 @@
+[       1] Initializing Proteus
+[       1] Initializing MPI
+[       2] Adding . to path for loading modules
+[       2] Loading problem-specific modules
+[       2] Importing input modules
+[       2] /mnt/d/proteus1.7.5/proteus/proteus/TwoPhaseFlow/utils/
+[       2] Loading so module = TwoPhaseFlow_so.py
